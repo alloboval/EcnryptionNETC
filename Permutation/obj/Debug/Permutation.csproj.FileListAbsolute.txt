@@ -1,0 +1,4 @@
+C:\Work\Projects C#\EncryptionNET\Permutation\bin\Debug\Permutation.dll
+C:\Work\Projects C#\EncryptionNET\Permutation\bin\Debug\Permutation.pdb
+C:\Work\Projects C#\EncryptionNET\Permutation\obj\Debug\Permutation.dll
+C:\Work\Projects C#\EncryptionNET\Permutation\obj\Debug\Permutation.pdb

@@ -1,0 +1,14 @@
+C:\Work\Projects C#\EncryptionNET\EncryptionNET\EncryptionNET\bin\Debug\EncryptionNET.exe.config
+C:\Work\Projects C#\EncryptionNET\EncryptionNET\EncryptionNET\obj\Debug\EncryptionNET.csprojResolveAssemblyReference.cache
+C:\Work\Projects C#\EncryptionNET\EncryptionNET\EncryptionNET\bin\Debug\EncryptionNET.exe
+C:\Work\Projects C#\EncryptionNET\EncryptionNET\EncryptionNET\bin\Debug\EncryptionNET.pdb
+C:\Work\Projects C#\EncryptionNET\EncryptionNET\EncryptionNET\bin\Debug\Permutation.dll
+C:\Work\Projects C#\EncryptionNET\EncryptionNET\EncryptionNET\bin\Debug\Permutation.pdb
+C:\Work\Projects C#\EncryptionNET\EncryptionNET\EncryptionNET\obj\Debug\EncryptionNET.exe
+C:\Work\Projects C#\EncryptionNET\EncryptionNET\EncryptionNET\obj\Debug\EncryptionNET.pdb
+C:\Work\Projects C#\EncryptionNET\output\EncryptionNET.exe.config
+C:\Work\Projects C#\EncryptionNET\output\EncryptionNET.exe
+C:\Work\Projects C#\EncryptionNET\output\EncryptionNET.pdb
+C:\Work\Projects C#\EncryptionNET\!Output\EncryptionNET.exe.config
+C:\Work\Projects C#\EncryptionNET\!Output\EncryptionNET.exe
+C:\Work\Projects C#\EncryptionNET\!Output\EncryptionNET.pdb
