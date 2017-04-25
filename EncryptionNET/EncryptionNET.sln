@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptionNET", "Encryption
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutation", "..\Permutation\Permutation.csproj", "{F298BBC0-7AE1-42E2-8338-869A69652F94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substitution", "..\Substitution\Substitution.csproj", "{D470F470-EB7D-43A9-9F80-9E5A1FE8B9ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F298BBC0-7AE1-42E2-8338-869A69652F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F298BBC0-7AE1-42E2-8338-869A69652F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F298BBC0-7AE1-42E2-8338-869A69652F94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D470F470-EB7D-43A9-9F80-9E5A1FE8B9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D470F470-EB7D-43A9-9F80-9E5A1FE8B9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D470F470-EB7D-43A9-9F80-9E5A1FE8B9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D470F470-EB7D-43A9-9F80-9E5A1FE8B9ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

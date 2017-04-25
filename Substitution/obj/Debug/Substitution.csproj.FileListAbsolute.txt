@@ -1,0 +1,4 @@
+C:\Work\Projects C#\EncryptionNET\Substitution\bin\Debug\Substitution.dll
+C:\Work\Projects C#\EncryptionNET\Substitution\bin\Debug\Substitution.pdb
+C:\Work\Projects C#\EncryptionNET\Substitution\obj\Debug\Substitution.dll
+C:\Work\Projects C#\EncryptionNET\Substitution\obj\Debug\Substitution.pdb
