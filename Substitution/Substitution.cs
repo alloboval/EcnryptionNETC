@@ -8,13 +8,9 @@
         static SubstitutionEncryption()
         {
             if (alphabetA == null)
-            {
                 alphabetA = "ABCDEFGHIJKLMNOPQRSTUVWXYZ_";
-            }
             if (alphabetB == null)
-            {
                 alphabetB = "_ZYXWVUTSRQPONMLKJIHGFEDCBA";
-            }
         }
 
         public static string Encryption(string sourceString)
@@ -22,15 +18,9 @@
             string result = "";
             sourceString = sourceString.ToUpper();
             for(int i = 0; i < sourceString.Length; i++)
-            {
                 for(int j = 0; j < alphabetA.Length; j++)
-                {
                     if (sourceString[i] == alphabetA[j])
-                    {
                         result = result + alphabetB[j];
-                    }
-                }
-            }
             return result;
         }
 
@@ -39,15 +29,9 @@
             string result = "";
             sourceString = sourceString.ToUpper();
             for (int i = 0; i < sourceString.Length; i++)
-            {
                 for (int j = 0; j < alphabetA.Length; j++)
-                {
                     if (sourceString[i] == alphabetA[j])
-                    {
                         result = result + alphabetB[getNewPosition(shift, j)];
-                    }
-                }
-            }
             return result;
         }
 
